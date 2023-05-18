@@ -1,2 +1,4 @@
 # dino-bot
-Bots for chrome dino.
+Bot(s) for chrome dino.
+
+Python uses pyautogui.
